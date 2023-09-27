@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yatan7
-- 👀 I’m interested in app building
-- 🌱 I’m currently learning Python and JS
-- 💞️ I’m looking to collaborate on app building strategy
+- 👀 I’m interested in web development
 - 📫 you can reach me on Instagram @yatan_7
 
 <!---
